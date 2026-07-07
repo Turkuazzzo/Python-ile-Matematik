@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## 2. GitHub Kurulumu
 Depoyu yerel bilgisayarınıza kopyalamak için:
 ```bash
-git clone <repo_linki>
+git clone https://github.com/Turkuazzzo/Python-ile-Matematik
 ```
 Gerekli yetkiler `korayaki@uludag.edu.tr` adresine verilmiştir.
 
