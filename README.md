@@ -40,4 +40,4 @@ Gerekli yetkiler `korayaki@uludag.edu.tr` adresine verilmiştir.
 
 ## 5. Veritabanı ve Veri Seti
 - **Veritabanı:** Bu projede bir veritabanı kullanılmamaktadır.
-- **Veri Seti Linki:** (Şu anda belirtilen spesifik bir link yok)
+- **Veri Seti Linki:** .rar dosyası içerisinde bulunmaktadır.
