@@ -4,3 +4,5 @@ librosa
 rawpy
 pillow
 PyWavelets
+matplotlib
+soundfile
